@@ -1,0 +1,37 @@
+{
+  "name": "require-ancestors",
+  "version": "0.0.0",
+  "description": "Returns the chain of JavaScript files used to require a given Node module - i.e. its ancestors",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.0"
+  },
+  "scripts": {
+    "test": "standard && node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/require-ancestors.git"
+  },
+  "keywords": [
+    "require",
+    "module",
+    "chain",
+    "ancestor",
+    "ancestors",
+    "parent",
+    "parents",
+    "link",
+    "commonjs"
+  ],
+  "author": "Thomas Watson <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/require-ancestors/issues"
+  },
+  "homepage": "https://github.com/watson/require-ancestors#readme"
+}
