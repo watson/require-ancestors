@@ -1,6 +1,6 @@
 {
   "name": "require-ancestors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the chain of JavaScript files used to require a given Node module - i.e. its ancestors",
   "main": "index.js",
   "directories": {
@@ -33,5 +33,9 @@
   "bugs": {
     "url": "https://github.com/watson/require-ancestors/issues"
   },
-  "homepage": "https://github.com/watson/require-ancestors#readme"
+  "homepage": "https://github.com/watson/require-ancestors#readme",
+  "coordinates": [
+    41.3769002,
+    2.1631511
+  ]
 }
